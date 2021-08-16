@@ -1,0 +1,54 @@
+{
+  "name": "cini_intro",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android && npm start",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-clipboard/clipboard": "^1.7.0",
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-firebase/app": "^11.3.1",
+    "@react-native-firebase/auth": "^11.3.1",
+    "@react-native-firebase/crashlytics": "^11.3.2",
+    "@react-navigation/material-top-tabs": "^5.3.15",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.4",
+    "@twotalltotems/react-native-otp-input": "^1.3.11",
+    "@ui-kitten/components": "^5.0.0",
+    "formik": "^2.2.6",
+    "react": "17.0.1",
+    "react-native": "0.64.0",
+    "react-native-country-picker-modal": "^2.0.0",
+    "react-native-elements": "^3.3.2",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-image-crop-picker": "^0.36.0",
+    "react-native-otp-inputs": "^7.0.3",
+    "react-native-pager-view": "^5.1.3",
+    "react-native-paper": "^4.7.2",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^3.1.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-tab-view": "^3.0.1",
+    "react-native-vector-icons": "^8.1.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@babel/core": "7.13.15",
+    "@babel/runtime": "7.13.10",
+    "@react-native-community/eslint-config": "2.0.0",
+    "babel-jest": "26.6.3",
+    "eslint": "7.14.0",
+    "jest": "26.6.3",
+    "metro-react-native-babel-preset": "0.64.0",
+    "react-test-renderer": "17.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

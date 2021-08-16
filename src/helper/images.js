@@ -1,0 +1,33 @@
+
+const Images = {
+    Login :require("../../assets/images/login.png"),
+    eye_on :require("../../assets/images/eye_on.png"),
+    eye_off :require("../../assets/images/eye_off.png"),
+    facebook :require("../../assets/images/facebook.png"),
+    twitter :require("../../assets/images/twitter.png"),
+    google :require("../../assets/images/g+.png"),
+    forgotImg :require("../../assets/images/forgot_password.png"),
+    leftarrow_white :require("../../assets/images/left-arrow-white.png"),
+    Signup :require("../../assets/images/signup.png"),
+    OTP :require("../../assets/images/otp.png"),
+    Create_pwd :require("../../assets/images/create_pwd.png"),
+    ProfileBottom :require("../../assets/images/bottom.png"),
+    ProfileTop :require("../../assets/images/top.png"),
+    ProfileImg :require("../../assets/images/profile-image.jpg"),
+    CheckIcon :require("../../assets/images/ios-checkmark.png"),
+    UploadIcon :require("../../assets/images/profile/uploadImg.png"),
+    EditProfile :require("../../assets/images/Rectangle-1463.png"),
+    Logo :require("../../assets/images/final-vertical_new.png"),
+    Search :require("../../assets/images/Search.png"),
+    Recruit :require("../../assets/images/profile/Recruit.png"),
+    NewsfeedImg :require("../../assets/images/under1.png"),
+    LikeInactive :require("../../assets/images/news-feed/like.png"),
+    LikeActive :require("../../assets/images/news-feed/like_active.png"),
+    ThumbsUp :require("../../assets/images/Thumbs_up.png"),
+    Auditorium :require("../../assets/images/news-feed/auditionbg.png"),
+    commentIcon :require("../../assets/images/comment-o.png"),
+    ShareIcon :require("../../assets/images/ios-share-alt.png"),
+    Audition :require("../../assets/images/audition-clapboard.png"),
+}
+
+export default Images;

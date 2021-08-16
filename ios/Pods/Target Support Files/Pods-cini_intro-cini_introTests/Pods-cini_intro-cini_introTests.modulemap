@@ -1,0 +1,6 @@
+module Pods_cini_intro_cini_introTests {
+  umbrella header "Pods-cini_intro-cini_introTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

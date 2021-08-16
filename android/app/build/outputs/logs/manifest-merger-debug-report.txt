@@ -1,0 +1,971 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/25daa53046bfbbb9bcc8423857e8d636/jetified-flipper-0.75.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8baf623ab3e461e50dc29ba000396990/jetified-flipper-network-plugin-0.75.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/7573c3af69c512d926a0690680d53d85/jetified-flipper-fresco-plugin-0.75.1/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-clipboard_clipboard] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_async-storage] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-25:12
+MERGED from [:react-native-firebase_app] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-pager-view] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-pager-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ef358c7651689c1ac1932845aaf19604/jetified-react-native-0.64.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/dd8e312937d208af518ff88e375c02e8/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/6f3bae7552fe9cd6614f206a82949135/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/09a19efcb3c44c1db29b9fc026cbd0dc/jetified-facebook-login-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/14c45e9482b7e451dfd5dbd9c78d20d3/jetified-facebook-share-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f20d0ecf3e81f42f5cdbb61848f8b7de/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/161b1298ad232e8121c200a8b0a84f98/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8de9c967b97a8f840118aa9289997cbd/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbc04c303cf1c931b3bcb1d722a0dfc5/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/veena/.gradle/caches/transforms-2/files-2.1/0a7b5b3c1d104ce374e071be1de33464/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d4af16d1b402010d63ce66590402f6fd/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f33d1f449127012c33ecb2ab897cecce/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/608ad2f23c8f34f4d8624a24b4d34eea/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/055d344a2271a93bdb817d8f5784e66d/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/3fc74c2d7fa3c2088dc34ed9da193cc1/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bc4135eca165546046b6339e9879063e/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/3508fdaeb899340e42558f0c9ae163fe/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ff107727ba12607352730f4a50a0c8c6/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/064c5f8ce3e77a629aea377faae81cb2/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c0f2bff59e8945370fcece6b963d952a/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/veena/.gradle/caches/transforms-2/files-2.1/cfa23699fabd1c57d13b66f2433482d4/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/795b4ee55a7b6f68c8e42e853808f69c/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/e96b5915a5ceb0855fd67e32b2dac773/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bcd1cf0cd6fcc8dbfef903cd6edacf40/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-places:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/37c0459da701cf49779b9b9641387eea/jetified-facebook-places-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/90195f1d72d816dcd59f4c576c9a8659/jetified-facebook-applinks-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/4bab5212fc894a8e736f911d60010d33/jetified-facebook-messenger-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:21:1-53:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/a607b77c9725f1dad115f891217c9368/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/922486aeb443fafea780713d5fdbe723/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/25fe362ab35c52d86e4e468541453bcb/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/e13142bf6f52ff0eb6e1842dbc1605ab/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/2bd566d3d7655918c73a9646da57c49c/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:23:1-41:12
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/b5c677d7ade8f09684fa2a4636211d7e/jetified-crashlytics-core-2.6.4/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/7f1f4ccb8db4378c5b03a274139fbef7/jetified-answers-1.4.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ba811c038768007e4d2b3e986cadf44/jetified-beta-1.2.10/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/eb6c755bc91e191cc3513ee88d91d1f7/jetified-fabric-1.4.4/AndroidManifest.xml:22:1-33:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0102d68006431166c584f48fb21c422b/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cc67b84a694bff733e6fe95cdfdcaaa4/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/97f503430e3242bad384d05550e7d560/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/4b5d00517954108b467421052a5daa20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df306673151af1709fedc155d6bf8bac/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/e41c7a93a4cd4dfcd5fa07a400e2c06e/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/605084c37b2549b7bfca66daa738104b/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/34931b869c5b9df8dce64e17bc286ab8/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/434be7f033706996adbbbf3b13d1fc9c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a838ba781c8f25d4ba2b450b5b2a0f8/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/d8cfbc832cac684a1b1e016a5b823212/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1aacf7a51f802ab9929b55f4955c2fb1/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/127a5b44fe295a7a35ff8acc5c1754c9/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/fd77eb11a99395de7316c977933f17ac/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/99dc9565985865a1a3ac1ed994972cde/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7ec576108d0c3470cb28037122043f76/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/828f2eb4dc41725d0ac52f951348b0fb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/744e0d26dd82104303dceeacb5cbc4ff/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df8a0b7208f8615921fcba8b472d2302/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/478d9d2bfa59ecd9e733274998a0262d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7a62ceb2495a56fbd7509cf5443af488/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7689aa3aeb53b7db9bdf79b75190a3e1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/90a9f1d927d21ba2c2a7a6fa4c2c8b34/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/48fc973ebbd8022befdbbafce3fb2694/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cc46c3d6496a8926427f590abb14509a/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/455d2b20891388d2850b814cfe1cbd09/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ac28c3ef47796245753521a57ed7d3c9/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/9385ca9ff715f0d22562a682a00efc41/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c51c9847599651c44b3188fc589207fa/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c237dec7128932f8fa4d5e15c5b6db5d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7ea5e91b727f7ffed669d592a00f486a/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/313a80ea6793b65fd68e7734bab7c3b6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/03a4235e351dfe13b763a11838455460/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/veena/.gradle/caches/transforms-2/files-2.1/cfabf22bb5a5bb46a22c0cfee55143de/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0008a9a2c8b52f09a1dd2215f36df5c4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/34ac7e0f0f557dc0312d5f99ee0b5448/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/a20995b3d00bd5692b3208ee09e1ae99/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/49d3e31646af9d74c108fac779de2bff/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/70f296f0dce097f88ccf0722eca7006b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1734a933390c445e292498ea62b7ba5c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/75b6d2acb66cb4451575ee8e6b50857a/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c779c4f136d8ccde2be64141cdac5482/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/fc2f5fbc919572cf196cd187b5e0493e/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0ade66b0bbd420f286a1bd9339ad9c5d/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7a8c7b1c395968605bfe3ebaf616dbc8/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7163cd427cabee5553ec2bc53e6cb421/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f6b3f95d74e1855500bf1286ad7f5a43/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bc245eb3c8d6c47a8cb2c39bf044d6db/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3e9e8082b58b3739ba879fd21987bee/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c37b1104e5c66dbb7f8e2cee91c08f77/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d024b7737b0dbfd6ba7113b987505258/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/25daa53046bfbbb9bcc8423857e8d636/jetified-flipper-0.75.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/25daa53046bfbbb9bcc8423857e8d636/jetified-flipper-0.75.1/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/b5c677d7ade8f09684fa2a4636211d7e/jetified-crashlytics-core-2.6.4/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/b5c677d7ade8f09684fa2a4636211d7e/jetified-crashlytics-core-2.6.4/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/7f1f4ccb8db4378c5b03a274139fbef7/jetified-answers-1.4.3/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/7f1f4ccb8db4378c5b03a274139fbef7/jetified-answers-1.4.3/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ba811c038768007e4d2b3e986cadf44/jetified-beta-1.2.10/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ba811c038768007e4d2b3e986cadf44/jetified-beta-1.2.10/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/eb6c755bc91e191cc3513ee88d91d1f7/jetified-fabric-1.4.4/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/eb6c755bc91e191cc3513ee88d91d1f7/jetified-fabric-1.4.4/AndroidManifest.xml:29:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:6:5-85
+	android:required
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:6:58-82
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:7:1-87
+	android:required
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:7:60-84
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:7:15-59
+application
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:8:5-37:19
+MERGED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:8:5-37:19
+MERGED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:8:5-37:19
+MERGED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-23:19
+MERGED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-23:19
+MERGED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-32:19
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ef358c7651689c1ac1932845aaf19604/jetified-react-native-0.64.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ef358c7651689c1ac1932845aaf19604/jetified-react-native-0.64.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/dd8e312937d208af518ff88e375c02e8/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/dd8e312937d208af518ff88e375c02e8/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/6f3bae7552fe9cd6614f206a82949135/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/6f3bae7552fe9cd6614f206a82949135/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/09a19efcb3c44c1db29b9fc026cbd0dc/jetified-facebook-login-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/09a19efcb3c44c1db29b9fc026cbd0dc/jetified-facebook-login-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/14c45e9482b7e451dfd5dbd9c78d20d3/jetified-facebook-share-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/14c45e9482b7e451dfd5dbd9c78d20d3/jetified-facebook-share-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c0f2bff59e8945370fcece6b963d952a/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c0f2bff59e8945370fcece6b963d952a/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/795b4ee55a7b6f68c8e42e853808f69c/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/795b4ee55a7b6f68c8e42e853808f69c/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-places:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/37c0459da701cf49779b9b9641387eea/jetified-facebook-places-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/37c0459da701cf49779b9b9641387eea/jetified-facebook-places-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/90195f1d72d816dcd59f4c576c9a8659/jetified-facebook-applinks-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/90195f1d72d816dcd59f4c576c9a8659/jetified-facebook-applinks-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/4bab5212fc894a8e736f911d60010d33/jetified-facebook-messenger-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/4bab5212fc894a8e736f911d60010d33/jetified-facebook-messenger-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:31:5-39:19
+MERGED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:31:5-39:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/b5c677d7ade8f09684fa2a4636211d7e/jetified-crashlytics-core-2.6.4/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/b5c677d7ade8f09684fa2a4636211d7e/jetified-crashlytics-core-2.6.4/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/7f1f4ccb8db4378c5b03a274139fbef7/jetified-answers-1.4.3/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/7f1f4ccb8db4378c5b03a274139fbef7/jetified-answers-1.4.3/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ba811c038768007e4d2b3e986cadf44/jetified-beta-1.2.10/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ba811c038768007e4d2b3e986cadf44/jetified-beta-1.2.10/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/eb6c755bc91e191cc3513ee88d91d1f7/jetified-fabric-1.4.4/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/eb6c755bc91e191cc3513ee88d91d1f7/jetified-fabric-1.4.4/AndroidManifest.xml:31:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/4b5d00517954108b467421052a5daa20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/4b5d00517954108b467421052a5daa20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df306673151af1709fedc155d6bf8bac/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df306673151af1709fedc155d6bf8bac/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/605084c37b2549b7bfca66daa738104b/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/605084c37b2549b7bfca66daa738104b/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/34931b869c5b9df8dce64e17bc286ab8/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/34931b869c5b9df8dce64e17bc286ab8/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/434be7f033706996adbbbf3b13d1fc9c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/434be7f033706996adbbbf3b13d1fc9c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a838ba781c8f25d4ba2b450b5b2a0f8/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a838ba781c8f25d4ba2b450b5b2a0f8/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/d8cfbc832cac684a1b1e016a5b823212/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/d8cfbc832cac684a1b1e016a5b823212/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1aacf7a51f802ab9929b55f4955c2fb1/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1aacf7a51f802ab9929b55f4955c2fb1/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c51c9847599651c44b3188fc589207fa/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c51c9847599651c44b3188fc589207fa/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0008a9a2c8b52f09a1dd2215f36df5c4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0008a9a2c8b52f09a1dd2215f36df5c4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d024b7737b0dbfd6ba7113b987505258/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d024b7737b0dbfd6ba7113b987505258/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c51c9847599651c44b3188fc589207fa/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/6f3bae7552fe9cd6614f206a82949135/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.cini_intro.MainActivity
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:15:7-36:18
+	android:label
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:23:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:myapp
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:25:9-35:23
+action#android.intent.action.VIEW
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:26:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:27:9-67
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:27:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:28:9-69
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:28:19-67
+data
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:34:8-38
+	android:scheme
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml:34:14-36
+uses-sdk
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/25daa53046bfbbb9bcc8423857e8d636/jetified-flipper-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/25daa53046bfbbb9bcc8423857e8d636/jetified-flipper-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8baf623ab3e461e50dc29ba000396990/jetified-flipper-network-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8baf623ab3e461e50dc29ba000396990/jetified-flipper-network-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/7573c3af69c512d926a0690680d53d85/jetified-flipper-fresco-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/7573c3af69c512d926a0690680d53d85/jetified-flipper-fresco-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-clipboard_clipboard] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-pager-view] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-pager-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-pager-view] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-pager-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ef358c7651689c1ac1932845aaf19604/jetified-react-native-0.64.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ef358c7651689c1ac1932845aaf19604/jetified-react-native-0.64.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/dd8e312937d208af518ff88e375c02e8/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/dd8e312937d208af518ff88e375c02e8/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/6f3bae7552fe9cd6614f206a82949135/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/6f3bae7552fe9cd6614f206a82949135/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/09a19efcb3c44c1db29b9fc026cbd0dc/jetified-facebook-login-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/09a19efcb3c44c1db29b9fc026cbd0dc/jetified-facebook-login-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/14c45e9482b7e451dfd5dbd9c78d20d3/jetified-facebook-share-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/14c45e9482b7e451dfd5dbd9c78d20d3/jetified-facebook-share-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f20d0ecf3e81f42f5cdbb61848f8b7de/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f20d0ecf3e81f42f5cdbb61848f8b7de/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/161b1298ad232e8121c200a8b0a84f98/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/161b1298ad232e8121c200a8b0a84f98/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8de9c967b97a8f840118aa9289997cbd/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8de9c967b97a8f840118aa9289997cbd/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbc04c303cf1c931b3bcb1d722a0dfc5/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbc04c303cf1c931b3bcb1d722a0dfc5/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/veena/.gradle/caches/transforms-2/files-2.1/0a7b5b3c1d104ce374e071be1de33464/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/veena/.gradle/caches/transforms-2/files-2.1/0a7b5b3c1d104ce374e071be1de33464/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d4af16d1b402010d63ce66590402f6fd/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d4af16d1b402010d63ce66590402f6fd/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f33d1f449127012c33ecb2ab897cecce/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f33d1f449127012c33ecb2ab897cecce/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/608ad2f23c8f34f4d8624a24b4d34eea/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/608ad2f23c8f34f4d8624a24b4d34eea/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/055d344a2271a93bdb817d8f5784e66d/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/055d344a2271a93bdb817d8f5784e66d/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/3fc74c2d7fa3c2088dc34ed9da193cc1/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/3fc74c2d7fa3c2088dc34ed9da193cc1/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bc4135eca165546046b6339e9879063e/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bc4135eca165546046b6339e9879063e/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/3508fdaeb899340e42558f0c9ae163fe/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/3508fdaeb899340e42558f0c9ae163fe/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ff107727ba12607352730f4a50a0c8c6/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ff107727ba12607352730f4a50a0c8c6/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/064c5f8ce3e77a629aea377faae81cb2/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/064c5f8ce3e77a629aea377faae81cb2/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c0f2bff59e8945370fcece6b963d952a/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c0f2bff59e8945370fcece6b963d952a/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/veena/.gradle/caches/transforms-2/files-2.1/cfa23699fabd1c57d13b66f2433482d4/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/veena/.gradle/caches/transforms-2/files-2.1/cfa23699fabd1c57d13b66f2433482d4/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/795b4ee55a7b6f68c8e42e853808f69c/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/795b4ee55a7b6f68c8e42e853808f69c/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/e96b5915a5ceb0855fd67e32b2dac773/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/e96b5915a5ceb0855fd67e32b2dac773/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bcd1cf0cd6fcc8dbfef903cd6edacf40/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bcd1cf0cd6fcc8dbfef903cd6edacf40/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.android:facebook-places:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/37c0459da701cf49779b9b9641387eea/jetified-facebook-places-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/37c0459da701cf49779b9b9641387eea/jetified-facebook-places-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/90195f1d72d816dcd59f4c576c9a8659/jetified-facebook-applinks-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/90195f1d72d816dcd59f4c576c9a8659/jetified-facebook-applinks-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/4bab5212fc894a8e736f911d60010d33/jetified-facebook-messenger-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/4bab5212fc894a8e736f911d60010d33/jetified-facebook-messenger-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/a607b77c9725f1dad115f891217c9368/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/a607b77c9725f1dad115f891217c9368/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/922486aeb443fafea780713d5fdbe723/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/922486aeb443fafea780713d5fdbe723/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/25fe362ab35c52d86e4e468541453bcb/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/25fe362ab35c52d86e4e468541453bcb/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/e13142bf6f52ff0eb6e1842dbc1605ab/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/e13142bf6f52ff0eb6e1842dbc1605ab/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/2bd566d3d7655918c73a9646da57c49c/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/2bd566d3d7655918c73a9646da57c49c/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:27:5-29:41
+MERGED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:27:5-29:41
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/b5c677d7ade8f09684fa2a4636211d7e/jetified-crashlytics-core-2.6.4/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/b5c677d7ade8f09684fa2a4636211d7e/jetified-crashlytics-core-2.6.4/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/7f1f4ccb8db4378c5b03a274139fbef7/jetified-answers-1.4.3/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/7f1f4ccb8db4378c5b03a274139fbef7/jetified-answers-1.4.3/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ba811c038768007e4d2b3e986cadf44/jetified-beta-1.2.10/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ba811c038768007e4d2b3e986cadf44/jetified-beta-1.2.10/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/eb6c755bc91e191cc3513ee88d91d1f7/jetified-fabric-1.4.4/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/veena/.gradle/caches/transforms-2/files-2.1/eb6c755bc91e191cc3513ee88d91d1f7/jetified-fabric-1.4.4/AndroidManifest.xml:27:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0102d68006431166c584f48fb21c422b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0102d68006431166c584f48fb21c422b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cc67b84a694bff733e6fe95cdfdcaaa4/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cc67b84a694bff733e6fe95cdfdcaaa4/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/97f503430e3242bad384d05550e7d560/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/97f503430e3242bad384d05550e7d560/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/4b5d00517954108b467421052a5daa20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/4b5d00517954108b467421052a5daa20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df306673151af1709fedc155d6bf8bac/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df306673151af1709fedc155d6bf8bac/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/e41c7a93a4cd4dfcd5fa07a400e2c06e/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/e41c7a93a4cd4dfcd5fa07a400e2c06e/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/605084c37b2549b7bfca66daa738104b/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/605084c37b2549b7bfca66daa738104b/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/34931b869c5b9df8dce64e17bc286ab8/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/34931b869c5b9df8dce64e17bc286ab8/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/434be7f033706996adbbbf3b13d1fc9c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/434be7f033706996adbbbf3b13d1fc9c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a838ba781c8f25d4ba2b450b5b2a0f8/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a838ba781c8f25d4ba2b450b5b2a0f8/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/d8cfbc832cac684a1b1e016a5b823212/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/d8cfbc832cac684a1b1e016a5b823212/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1aacf7a51f802ab9929b55f4955c2fb1/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1aacf7a51f802ab9929b55f4955c2fb1/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/127a5b44fe295a7a35ff8acc5c1754c9/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/127a5b44fe295a7a35ff8acc5c1754c9/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/fd77eb11a99395de7316c977933f17ac/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/fd77eb11a99395de7316c977933f17ac/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/99dc9565985865a1a3ac1ed994972cde/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/99dc9565985865a1a3ac1ed994972cde/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7ec576108d0c3470cb28037122043f76/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7ec576108d0c3470cb28037122043f76/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/828f2eb4dc41725d0ac52f951348b0fb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/828f2eb4dc41725d0ac52f951348b0fb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/744e0d26dd82104303dceeacb5cbc4ff/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/744e0d26dd82104303dceeacb5cbc4ff/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df8a0b7208f8615921fcba8b472d2302/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/df8a0b7208f8615921fcba8b472d2302/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/478d9d2bfa59ecd9e733274998a0262d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/478d9d2bfa59ecd9e733274998a0262d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7a62ceb2495a56fbd7509cf5443af488/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7a62ceb2495a56fbd7509cf5443af488/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7689aa3aeb53b7db9bdf79b75190a3e1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7689aa3aeb53b7db9bdf79b75190a3e1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/90a9f1d927d21ba2c2a7a6fa4c2c8b34/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/90a9f1d927d21ba2c2a7a6fa4c2c8b34/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/48fc973ebbd8022befdbbafce3fb2694/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/48fc973ebbd8022befdbbafce3fb2694/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cc46c3d6496a8926427f590abb14509a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/cc46c3d6496a8926427f590abb14509a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/455d2b20891388d2850b814cfe1cbd09/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/455d2b20891388d2850b814cfe1cbd09/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ac28c3ef47796245753521a57ed7d3c9/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/ac28c3ef47796245753521a57ed7d3c9/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/9385ca9ff715f0d22562a682a00efc41/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/9385ca9ff715f0d22562a682a00efc41/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c51c9847599651c44b3188fc589207fa/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c51c9847599651c44b3188fc589207fa/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c237dec7128932f8fa4d5e15c5b6db5d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c237dec7128932f8fa4d5e15c5b6db5d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7ea5e91b727f7ffed669d592a00f486a/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7ea5e91b727f7ffed669d592a00f486a/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/313a80ea6793b65fd68e7734bab7c3b6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/313a80ea6793b65fd68e7734bab7c3b6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/03a4235e351dfe13b763a11838455460/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/03a4235e351dfe13b763a11838455460/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/veena/.gradle/caches/transforms-2/files-2.1/cfabf22bb5a5bb46a22c0cfee55143de/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/veena/.gradle/caches/transforms-2/files-2.1/cfabf22bb5a5bb46a22c0cfee55143de/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0008a9a2c8b52f09a1dd2215f36df5c4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0008a9a2c8b52f09a1dd2215f36df5c4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/34ac7e0f0f557dc0312d5f99ee0b5448/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/34ac7e0f0f557dc0312d5f99ee0b5448/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/a20995b3d00bd5692b3208ee09e1ae99/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/a20995b3d00bd5692b3208ee09e1ae99/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/49d3e31646af9d74c108fac779de2bff/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/49d3e31646af9d74c108fac779de2bff/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/70f296f0dce097f88ccf0722eca7006b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/70f296f0dce097f88ccf0722eca7006b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1734a933390c445e292498ea62b7ba5c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/1734a933390c445e292498ea62b7ba5c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/75b6d2acb66cb4451575ee8e6b50857a/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/75b6d2acb66cb4451575ee8e6b50857a/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c779c4f136d8ccde2be64141cdac5482/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/c779c4f136d8ccde2be64141cdac5482/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/fc2f5fbc919572cf196cd187b5e0493e/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/fc2f5fbc919572cf196cd187b5e0493e/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0ade66b0bbd420f286a1bd9339ad9c5d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0ade66b0bbd420f286a1bd9339ad9c5d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7a8c7b1c395968605bfe3ebaf616dbc8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7a8c7b1c395968605bfe3ebaf616dbc8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7163cd427cabee5553ec2bc53e6cb421/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7163cd427cabee5553ec2bc53e6cb421/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f6b3f95d74e1855500bf1286ad7f5a43/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/f6b3f95d74e1855500bf1286ad7f5a43/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bc245eb3c8d6c47a8cb2c39bf044d6db/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/bc245eb3c8d6c47a8cb2c39bf044d6db/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3e9e8082b58b3739ba879fd21987bee/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3e9e8082b58b3739ba879fd21987bee/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c37b1104e5c66dbb7f8e2cee91c08f77/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/c37b1104e5c66dbb7f8e2cee91c08f77/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d024b7737b0dbfd6ba7113b987505258/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d024b7737b0dbfd6ba7113b987505258/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from /Users/veena/Desktop/Cini-intro/cini_intro/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/25daa53046bfbbb9bcc8423857e8d636/jetified-flipper-0.75.1/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.75.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/25daa53046bfbbb9bcc8423857e8d636/jetified-flipper-0.75.1/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/b37f07a944c43b5156c7f032153e1639/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+meta-data#firebase_crashlytics_collection_enabled
+ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-16:37
+	android:value
+		ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-34
+	android:name
+		ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-67
+provider#io.invertase.firebase.crashlytics.ReactNativeFirebaseCrashlyticsInitProvider
+ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-22:38
+	android:authorities
+		ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-94
+	android:exported
+		ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-35
+	android:name
+		ADDED from [:react-native-firebase_crashlytics] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-104
+queries
+ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:21-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/veena/Desktop/Cini-intro/cini_intro/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/cbebb64856023420675734a11d2aefa5/jetified-crashlytics-2.9.5/AndroidManifest.xml:13:13-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:32:9-38:19
+MERGED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:32:9-38:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:19.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/6ac280e30ae063da4479c0749c677c69/jetified-firebase-dynamic-links-19.1.1/AndroidManifest.xml:12:17-133
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.cini_intro+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/657b71cafae10e62508933cee9033e3e/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/8a2b488bde841925855ee133e4888d03/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:25-92
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.ndk.CrashlyticsNdkRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics-ndk:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/8f326efd012d092a2d87e58c10d7ebd3/jetified-firebase-crashlytics-ndk-17.4.1/AndroidManifest.xml:36:17-122
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/258aa9ecc460f12d88052a28c2f9b2bb/jetified-firebase-crashlytics-17.4.1/AndroidManifest.xml:19:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/a81175080ef4ff6fc082e7563d718a94/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/veena/.gradle/caches/transforms-2/files-2.1/9eaf94daa4e8592f3e56cf46761e1f2e/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/0d8ee5c94f38148ebc95ae5b76e28e5c/jetified-play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.3] /Users/veena/.gradle/caches/transforms-2/files-2.1/d3ad6765bc964bd80f5469bcaa1116a8/jetified-firebase-auth-20.0.3/AndroidManifest.xml:78:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/22f78f4f1c803639b392068a63a9a07d/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/03bdd4e30c62e694bb9084131f5ff642/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/veena/.gradle/caches/transforms-2/files-2.1/1a75811c48749e97575431e14c58fb1d/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/7d791f08d770061ef0115ab93c0bc6ce/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/4de8d9ec7d09cc565056a8c3967afce7/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d024b7737b0dbfd6ba7113b987505258/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/veena/.gradle/caches/transforms-2/files-2.1/d024b7737b0dbfd6ba7113b987505258/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/veena/.gradle/caches/transforms-2/files-2.1/98388a65df4f690eead374bf348746e4/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/veena/.gradle/caches/transforms-2/files-2.1/aa1b1a70247ba39c628b25b1d82d838a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58

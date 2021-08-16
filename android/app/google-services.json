@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323344441328",
+    "firebase_url": "https://cineintro-dev.firebaseio.com",
+    "project_id": "cineintro-dev",
+    "storage_bucket": "cineintro-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323344441328:android:c4f454b0978b2d2225c735",
+        "android_client_info": {
+          "package_name": "com.cini_intro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323344441328-b8f0efe85987to8g5shtl9ha1qdfrd4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPs49HNWUFtHMoN1n-V6GB4hN5LiFknNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323344441328-b8f0efe85987to8g5shtl9ha1qdfrd4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
